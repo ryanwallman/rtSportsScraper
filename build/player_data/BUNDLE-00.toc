@@ -1,0 +1,3 @@
+([('player_data',
+   '/Users/ryanwallman/Desktop/CodingProjects/rtSportsScraper/dist/player_data',
+   'EXECUTABLE')],)

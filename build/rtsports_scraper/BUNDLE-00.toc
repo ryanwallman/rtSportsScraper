@@ -1,0 +1,3 @@
+([('rtsports_scraper',
+   '/Users/ryanwallman/Desktop/CodingProjects/rtSportsScraper/dist/rtsports_scraper',
+   'EXECUTABLE')],)
